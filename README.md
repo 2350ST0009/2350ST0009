@@ -42,9 +42,9 @@
 （[2350ST0009](https://github.com/anuraghazra/github-readme-stats) を利用した例です。)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[2350ST0009]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2350ST0009&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[2350ST0009]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2350ST0009&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
