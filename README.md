@@ -49,6 +49,6 @@
 お気軽にご連絡ください
 
 メールアドレス：TTC2350ST0009@edu.tech.ac.jp
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.email@example.com](TTC2350ST0009@edu.tech.ac.jp)
 
 ---
