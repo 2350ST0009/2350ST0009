@@ -4,18 +4,16 @@
 
 ---
 
-### 👨‍💻 私について (About Me)
+###  私について (About Me)
 
-- 💻 **職業:** [学生]
-- 📍 **拠点:** [Tokyo]
-- 🚀 **興味:** [フロントエンド技術 / バックエンド]
-- 🌱 **学習中:** [Python / PHP]
+-  **職業:** [学生]
+-  **拠点:** [Tokyo]
+-  **興味:** [フロントエンド技術 / バックエンド]
+-  **学習中:** [Python / PHP]
 
 ---
 
-### 🛠 スキル (Skills & Tools)
-
-主要なものをいくつか挙げます。
+### スキル (Skills & Tools)
 
 - **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +33,7 @@
 
 ---
 
-### 📊 GitHub統計 (GitHub Stats)
+### GitHub統計 (GitHub Stats)
 
 
 <p align="center">
