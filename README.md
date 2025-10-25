@@ -48,6 +48,6 @@
 
 お気軽にご連絡ください
 
-- **Email:** [TTC2350ST0009@edu.tech.ac.jp](TTC2350ST0009@edu.tech.ac.jp)
+- **Email:** TTC2350ST0009@edu.tech.ac.jp
 
 ---
