@@ -6,10 +6,10 @@
 
 ### 👨‍💻 私について (About Me)
 
-- 💻 **職業:** [Webデベロッパー / 学生 / データサイエンティストなど]
-- 📍 **拠点:** [Tokyo, Japanなど]
-- 🚀 **興味:** [フロントエンド技術 / バックエンド / 機械学習 / OSSなど]
-- 🌱 **学習中:** [Next.js / Go言語 / AWSなど]
+- 💻 **職業:** [学生]
+- 📍 **拠点:** [Tokyo]
+- 🚀 **興味:** [フロントエンド技術 / バックエンド]
+- 🌱 **学習中:** [Python / PHP]
 
 ---
 
@@ -42,9 +42,9 @@
 （[2350ST0009](https://github.com/anuraghazra/github-readme-stats) を利用した例です。
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[2350ST0009]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[2350ST0009]&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
