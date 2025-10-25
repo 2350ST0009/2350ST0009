@@ -33,13 +33,10 @@
   ![VSCode](https://img.shields.io/badge/VSCode-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-*(スキルのバッジは [Shields.io](https://shields.io/) や [Simple Icons](https://simpleicons.org/) などで好きなものを追加できます)*
-
 ---
 
 ### 📊 GitHub統計 (GitHub Stats)
 
-（[2350ST0009](https://github.com/anuraghazra/github-readme-stats) を利用した例です。)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2350ST0009&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
